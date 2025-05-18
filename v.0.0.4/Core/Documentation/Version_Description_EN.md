@@ -38,7 +38,7 @@ Version 0.0.4 is an implementation of a genetic algorithm for finding a target s
 [Back to table of contents](#table-of-contents)
 #### AgentController
 
-**Конструктор класса AgentController** works according to this algorithm:
+**The constructor of the AgentController** works according to this algorithm:
 * Attributes are passed during creation - **count_of_agent, answer**.
 	* **count_of_agent** - number of agents in the population.
 	* **answer** - the reference answer you need to find.
